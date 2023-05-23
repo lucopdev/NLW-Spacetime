@@ -8,6 +8,7 @@ import { memoriesRoutes } from './routes/memories'
 import { authRoutes } from './routes/auth'
 import { uploadRoutes } from './routes/upload'
 import { resolve } from 'node:path'
+// mod
 
 const app = fastify()
 
